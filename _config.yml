@@ -1,0 +1,13 @@
+title: "Course Hub"
+description: "Course Materials for Course 1 and Course 2"
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: minima
+exclude: ["README.md"]
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Course 1"
+    url: "/course1/"
+  - title: "Course 2"
+    url: "/course2/"
