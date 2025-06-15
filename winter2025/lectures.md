@@ -12,11 +12,11 @@
 
 (6) Hebbian Learning and Applications of Linear Algebra [LinearAlgebraHebbian-1.pdf](https://github.com/user-attachments/files/20746670/LinearAlgebraHebbian-1.pdf)
 
-(5) Hebbian Learning and Universal Approximation Theorem [HebbianLearning-UniversalApproximationTheorem.pdf](https://github.com/user-attachments/files/20746582/HebbianLearning-UniversalApproximationTheorem.pdf)
+(7) Hebbian Learning and Universal Approximation Theorem [HebbianLearning-UniversalApproximationTheorem.pdf](https://github.com/user-attachments/files/20746582/HebbianLearning-UniversalApproximationTheorem.pdf)
 
-(6) Backpropagation part 1 [Back Prop pt 1 Scribe_Notes.pdf](https://github.com/user-attachments/files/20746661/Back.Prop.pt.1.Scribe_Notes.pdf)
+(8) Backpropagation part 1 [Back Prop pt 1 Scribe_Notes.pdf](https://github.com/user-attachments/files/20746661/Back.Prop.pt.1.Scribe_Notes.pdf)
 
-(7) Backpropagation part 2 [Backpropagation_ScribeNotes_AnthonyVu.pdf](https://github.com/user-attachments/files/20746674/Backpropagation_ScribeNotes_AnthonyVu.pdf)
+(9) Backpropagation part 2 [Backpropagation_ScribeNotes_AnthonyVu.pdf](https://github.com/user-attachments/files/20746674/Backpropagation_ScribeNotes_AnthonyVu.pdf)
 
 
 ---
