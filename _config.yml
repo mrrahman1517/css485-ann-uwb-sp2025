@@ -7,7 +7,7 @@ exclude: ["README.md"]
 nav_links:
   - title: "Home"
     url: "/"
-  - title: "Course 1"
-    url: "/course1/"
-  - title: "Course 2"
-    url: "/course2/"
+  - title: "ANN Winter 2025"
+    url: "/winter2025/"
+  - title: "ANN Winter 2026"
+    url: "/winter2026/"
