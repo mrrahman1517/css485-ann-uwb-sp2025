@@ -7,5 +7,5 @@ title: Home
 
 Access course materials, schedules, and assignments below.
 
-- [Course 1 Overview](course1/)
-- [Course 2 Overview](course2/)
+- [ANN Winter 2025 Overview](winter2025/)
+- [ANN Winter2026 Overview](winter2026/)
