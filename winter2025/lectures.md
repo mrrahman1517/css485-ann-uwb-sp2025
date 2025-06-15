@@ -20,6 +20,9 @@
 
 (10) Deep Learning Optimizers (Momentum, RMSProp, Adam, Adagrad) and Generalization [DeepLearningOptimizersGeneralization.pdf](https://github.com/user-attachments/files/20746695/DeepLearningOptimizersGeneralization.pdf)
 
+(11) Generalization for Deep Learning [Generalization-1.pdf](https://github.com/user-attachments/files/20746698/Generalization-1.pdf)
+
+
 
 ---
 
