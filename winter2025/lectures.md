@@ -22,6 +22,8 @@
 
 (11) Generalization for Deep Learning [Generalization-1.pdf](https://github.com/user-attachments/files/20746698/Generalization-1.pdf)
 
+(12) Generalization, Data Augmentation, Dropout [GeneralizationDataAugmentationDropout.pdf](https://github.com/user-attachments/files/20746703/GeneralizationDataAugmentationDropout.pdf)
+
 
 
 ---
