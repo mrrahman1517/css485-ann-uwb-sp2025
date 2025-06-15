@@ -3,4 +3,9 @@ layout: default
 title: Lectures
 ---
 
-# Course 1 Lectures
+# Neural Network Lectures
+---
+Lecture: Scribe notes 
+
+---
+
