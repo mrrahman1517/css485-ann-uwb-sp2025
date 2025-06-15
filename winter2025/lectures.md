@@ -1,4 +1,4 @@
-# Neural Network Lectures
+# Neural Network Lectures (scribe notes by participating students)
 ---
 (1) Linear Algebra for ML [LinearAlgebra.pdf](https://github.com/user-attachments/files/20746575/LinearAlgebra.pdf)
 
