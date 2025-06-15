@@ -18,6 +18,8 @@
 
 (9) Backpropagation part 2 [Backpropagation_ScribeNotes_AnthonyVu.pdf](https://github.com/user-attachments/files/20746674/Backpropagation_ScribeNotes_AnthonyVu.pdf)
 
+(10) Deep Learning Optimizers (Momentum, RMSProp, Adam, Adagrad) and Generalization [DeepLearningOptimizersGeneralization.pdf](https://github.com/user-attachments/files/20746695/DeepLearningOptimizersGeneralization.pdf)
+
 
 ---
 
