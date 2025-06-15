@@ -26,6 +26,14 @@
 
 (13) CNN, RNN Architectures [CNN-RNN.pdf](https://github.com/user-attachments/files/20746711/CNN-RNN.pdf)
 
+---
+
+# Neural Network lecture Videos
+---
+
+(1) Optimization for ML (https://youtu.be/o2dQ9oNfQTI?si=9VIH0K1vlOSLgBMt)
+
+(2) Radial Basis Function (RBF) Neural Networks (https://youtu.be/uhi0WZm_MeQ?si=GImVU2aZACTpIkwE)
 
 ---
 
