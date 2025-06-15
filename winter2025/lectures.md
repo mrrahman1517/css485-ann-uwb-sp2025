@@ -2,7 +2,7 @@
 ---
 (1) Linear Algebra for ML [LinearAlgebra.pdf](https://github.com/user-attachments/files/20746575/LinearAlgebra.pdf)
 
-(2) Linear Algebra for ML (part 2)[LinearAlgebraIntro-2.pdf](https://github.com/user-attachments/files/20746597/LinearAlgebraIntro-2.pdf)
+(2) Linear Algebra for ML (part 2) [LinearAlgebraIntro-2.pdf](https://github.com/user-attachments/files/20746597/LinearAlgebraIntro-2.pdf)
 
 (3) Multi-variable calculus for ML [MultivariableCalculus.pdf](https://github.com/user-attachments/files/20746591/MultivariableCalculus.pdf)
 
