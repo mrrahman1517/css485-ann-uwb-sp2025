@@ -24,6 +24,7 @@
 
 (12) Generalization, Data Augmentation, Dropout [GeneralizationDataAugmentationDropout.pdf](https://github.com/user-attachments/files/20746703/GeneralizationDataAugmentationDropout.pdf)
 
+(13) CNN, RNN Architectures [CNN-RNN.pdf](https://github.com/user-attachments/files/20746711/CNN-RNN.pdf)
 
 
 ---
