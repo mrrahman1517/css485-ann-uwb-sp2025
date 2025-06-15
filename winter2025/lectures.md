@@ -10,8 +10,10 @@
 
 (5) Perceptron Algorithm [Perceptron Notes.pdf](https://github.com/user-attachments/files/20746656/Perceptron.Notes.pdf)
 
-
 (5) Hebbian Learning and Universal Approximation Theorem [HebbianLearning-UniversalApproximationTheorem.pdf](https://github.com/user-attachments/files/20746582/HebbianLearning-UniversalApproximationTheorem.pdf)
+
+(6) Backpropagation part 1 [Back Prop pt 1 Scribe_Notes.pdf](https://github.com/user-attachments/files/20746661/Back.Prop.pt.1.Scribe_Notes.pdf)
+
 
 
 ---
