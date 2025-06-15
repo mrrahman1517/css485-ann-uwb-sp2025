@@ -16,6 +16,7 @@
 
 (6) Backpropagation part 1 [Back Prop pt 1 Scribe_Notes.pdf](https://github.com/user-attachments/files/20746661/Back.Prop.pt.1.Scribe_Notes.pdf)
 
+(7) Backpropagation part 2 [Backpropagation_ScribeNotes_AnthonyVu.pdf](https://github.com/user-attachments/files/20746674/Backpropagation_ScribeNotes_AnthonyVu.pdf)
 
 
 ---
