@@ -1,8 +1,3 @@
----
-layout: default
-title: Lectures
----
-
 # Neural Network Lectures
 ---
 (1) Linear Algebra for ML [LinearAlgebra.pdf](https://github.com/user-attachments/files/20746575/LinearAlgebra.pdf)
